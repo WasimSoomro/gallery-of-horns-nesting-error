@@ -1,3 +1,15 @@
+Number and name of feature #1: Display Images
+
+Estimate of time needed to complete: 60 minutes
+
+Start time: 10:40pm
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
