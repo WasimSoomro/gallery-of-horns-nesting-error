@@ -2,11 +2,21 @@ Number and name of feature #1: Display Images
 
 Estimate of time needed to complete: 60 minutes
 
-Start time: 10:40pm
+Start time: 10:30 pm
 
-Finish time: _____
+Finish time: 11:30 pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 60 minutes
+
+Number and name of feature: #2: Allow users to favorite individual beasts
+
+Estimate of time needed to complete: 60 minutes
+
+Start time: Various Chunks
+
+Finish time: Various Chunks
+
+Actual time needed to complete: 45
 
 
 
