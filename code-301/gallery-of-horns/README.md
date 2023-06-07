@@ -18,7 +18,15 @@ Finish time: Various Chunks
 
 Actual time needed to complete: 45
 
+Number and name of feature: #3: Bootstrap
 
+Estimate of time needed to complete: 60 minutes
+
+Start time: Various Chunks
+
+Finish time: Various Chunks
+
+Actual time needed to complete: 45
 
 # Getting Started with Create React App
 
