@@ -1,32 +1,27 @@
+Number and name of feature: Lab3/1, Display a Modal
+Estimate of time needed to complete: 120 minutes
+Start time: _____
+Finish time: _____
+Actual time needed to complete: _____
+
+
 Number and name of feature #1: Display Images
-
 Estimate of time needed to complete: 60 minutes
-
 Start time: 10:30 pm
-
 Finish time: 11:30 pm
-
 Actual time needed to complete: 60 minutes
 
 Number and name of feature: #2: Allow users to favorite individual beasts
-
 Estimate of time needed to complete: 60 minutes
-
 Start time: Various Chunks
-
 Finish time: Various Chunks
-
 Actual time needed to complete: 45
 
 Number and name of feature: #3: Bootstrap
-
 Estimate of time needed to complete: 60 minutes
-
 Start time: Various Chunks
-
 Finish time: Various Chunks
-
-Actual time needed to complete: 45
+Actual time needed to complete: 90 
 
 # Getting Started with Create React App
 
