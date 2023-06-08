@@ -3,6 +3,7 @@ import './index.css';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
+
 class HornedBeast extends React.Component {
   constructor(props){
     super();
@@ -18,35 +19,32 @@ class HornedBeast extends React.Component {
     })
   }
 
+  // displayBeast = () => {
+  //   this.props.handleOpenModal(this.props.title, this.props.image_url, this.props.description);
+  // }
+  // From code review
+
+handleNameClick = () => {
+  this.props.OpenModal2(this.props.title, this.props.image_url, this.props.description);
+}
+// from CodeReview this.props.title, this.props.image_url, this.props.description);
   render(){
     console.log(this.props);
     return(
       <>
       <article>
       <Card style={{ width: '18rem' }}>
-        <h3>{this.props.title}</h3>
+        <h3> {this.props.title}</h3>
         <p onClick={this.handleFavorites}> {this.state.favorites} Favorites ♥️ </p>
-        <img src ={this.props.image_url} alt={this.props.title} />
+        <img 
+        onClick={this.handleNameClick} 
+        src ={this.props.image_url} 
+        alt={this.props.title} />
       </Card>
       </article>
       </>
     )
   }
-  
-  // render(){
-  //   console.log(this.props);
-  //   return (
-  //     <Card style = {{width '18rem'}}>
-  //       <Card.Title>{this.props.title}</Card.Title>
-  //       <Card.Text>
-  //         {this.state.likes}Likes
-  //       </Card.Text>
-  //       <Card.Img on Click={this.handlLike} src={this.props.image_url} alt={this.props.alt} title = {this.props.title} />
-  //       <Card.Body>
-
-  //       </Card.Body>
-  //   )
-  // } 
 }
 
 //Code for cards taken from CodeReview
