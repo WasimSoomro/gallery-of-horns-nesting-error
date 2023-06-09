@@ -1,9 +1,8 @@
 Number and name of feature: Lab3/1, Display a Modal
 Estimate of time needed to complete: 120 minutes
-Start time: _____
-Finish time: _____
-Actual time needed to complete: _____
-
+Start time: Varoius
+Finish time: Various
+Actual time needed to complete: 120 minutes
 
 Number and name of feature #1: Display Images
 Estimate of time needed to complete: 60 minutes
