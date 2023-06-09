@@ -43,8 +43,17 @@ render() {
   console.log(this.state.selectedBeast);
   return (
     <>
-    <Header favorites={this.state.favorites}/>
-    <Main addFavorites={this.addFavorites}
+    <form>
+      <fieldset>
+        <legend>Number of Horns</legend>
+        
+      </fieldset>
+    </form>
+    <Header 
+    favorites={this.state.favorites}
+    />
+    <Main 
+    addFavorites={this.addFavorites}
     OpenModal={this.handleOpenModal}
     data={data}
     />
