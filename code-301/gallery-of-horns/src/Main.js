@@ -12,7 +12,7 @@ class Main extends React.Component {
           image_url={hornedBeastObj.image_url} 
           description={hornedBeastObj.description}
           addFavorites={this.props.addFavorites}
-          OpenModal2={this.props.OpenModal}
+          OpenModal={this.props.OpenModal}
           />
         })}
       {/* <HornedBeast title="Impala" description="Impala" image_url="impala.jpg" />
@@ -24,7 +24,5 @@ class Main extends React.Component {
 
 export default Main;
 
-
 //Impala Photo from https://unsplash.com/photos/tXxMqc5M4PE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
-
 //Waterbuck Photo from https://unsplash.com/photos/PwdIfHPxKSs

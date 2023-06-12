@@ -25,11 +25,11 @@ class HornedBeast extends React.Component {
   // From code review
 
 handleNameClick = () => {
-  this.props.OpenModal2(this.props.title, this.props.image_url, this.props.description);
+  this.props.OpenModal(this.props.title, this.props.image_url, this.props.description);
 }
 // from CodeReview this.props.title, this.props.image_url, this.props.description);
   render(){
-    console.log(this.props);
+    //console.log(this.props);
     return(
       <>
       <article>
